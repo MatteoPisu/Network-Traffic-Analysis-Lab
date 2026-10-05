@@ -3,7 +3,7 @@
 ## Project Overview
 In cybersecurity, when a computer behaves strangely or an alert goes off, security analysts need to figure out *what* happened, *who* was affected, and *where* the threat came from. 
 
-For this project, I acted as a digital detective investigating a simulated security incident called **Natureforce**. Using a professional network analysis tool called **Wireshark**, I looked through a **PCAP file** (a recording of network traffic) to track down an infected machine, investigate security alerts, and verify threat indicators.
+For this project, I acted as a digital detective investigating a simulated security incident called **Natureforce**. Using a professional network analysis tool called **Wireshark**, I looked through a sample **PCAP file** (a recording of network traffic) to track down an infected machine, investigate security alerts, and verify threat indicators.
 
 ---
 
